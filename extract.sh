@@ -1,0 +1,1 @@
+ unzip DEM-CHINA-WGS84-MESH-12.5M.zip -x "DEM-China-wgs84-Mesh-12.5m/0/*" -x "DEM-China-wgs84-Mesh-12.5m/1/*" -x "DEM-China-wgs84-Mesh-12.5m/10/*"  -x "DEM-China-wgs84-Mesh-12.5m/11/*" -x "DEM-China-wgs84-Mesh-12.5m/12/*" -x "DEM-China-wgs84-Mesh-12.5m/13/*" -x "DEM-China-wgs84-Mesh-12.5m/14/*"   
